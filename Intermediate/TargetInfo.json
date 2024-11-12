@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObserverSIS",
+			"Path": "C:\\Users\\DAVID\\Desktop\\SIS_457\\ObserverSIS\\Source\\ObserverSIS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObserverSISEditor",
+			"Path": "C:\\Users\\DAVID\\Desktop\\SIS_457\\ObserverSIS\\Source\\ObserverSISEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

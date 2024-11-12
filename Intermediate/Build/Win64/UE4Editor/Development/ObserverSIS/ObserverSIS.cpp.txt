@@ -1,0 +1,2 @@
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Intermediate\Build\Win64\UE4Editor\Development\ObserverSIS\Definitions.ObserverSIS.h
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Source\ObserverSIS\ObserverSIS.h

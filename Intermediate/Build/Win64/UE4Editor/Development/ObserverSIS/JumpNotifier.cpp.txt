@@ -1,0 +1,14 @@
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Intermediate\Build\Win64\UE4Editor\Development\ObserverSIS\Definitions.ObserverSIS.h
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Source\ObserverSIS\JumpNotifier.h
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Source\ObserverSIS\JumpObserver.h
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Intermediate\Build\Win64\UE4Editor\Inc\ObserverSIS\JumpObserver.generated.h
+C:\Users\DAVID\Desktop\SIS_457\ObserverSIS\Intermediate\Build\Win64\UE4Editor\Inc\ObserverSIS\JumpNotifier.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

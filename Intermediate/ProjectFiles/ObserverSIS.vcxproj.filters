@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ObserverSIS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A225A166-740F-4FF3-8AB3-3851AD265A96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ObserverSIS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ObserverSISEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{64D5CCFE-A7C4-491A-8852-095BF054F315}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ObserverSIS">
+      <UniqueIdentifier>{478A1F84-2C6D-42D6-97D4-E5FB841BB340}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ObserverSIS\JumpNotifier.cpp">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverSIS\JumpNotifier.h">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ObserverSIS\JumpObserver.cpp">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverSIS\JumpObserver.h">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ObserverSIS\ObserverSIS.Build.cs">
+      <Filter>Source\ObserverSIS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ObserverSIS\ObserverSIS.cpp">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverSIS\ObserverSIS.h">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ObserverSIS\ObserverSISCharacter.cpp">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverSIS\ObserverSISCharacter.h">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ObserverSIS\ObserverSISGameMode.cpp">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverSIS\ObserverSISGameMode.h">
+      <Filter>Source\ObserverSIS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
