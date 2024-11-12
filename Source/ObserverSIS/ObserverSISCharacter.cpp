@@ -48,7 +48,7 @@ AObserverSISCharacter::AObserverSISCharacter()
 void AObserverSISCharacter::Jump()
 {
 	Super::Jump();
-	NotifyObservers();  // Notificamos a todos los observadores cuando el personaje salta
+	NotifyObservers();
 
 }
 

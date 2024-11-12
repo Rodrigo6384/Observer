@@ -46,18 +46,16 @@ public:
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 
 protected:
-	// Sobrescribimos Jump para notificar el salto
 	virtual void Jump() override;
 
 public:
-	// Métodos para gestionar observadores
+
 	void AddObserver(IJumpObserver* Observer);
 	void RemoveObserver(IJumpObserver* Observer);
 
 private:
-	// Método para notificar a todos los observadores
+
 	void NotifyObservers();
 
-	// Lista de observadores
 	TArray<IJumpObserver*> Observers;
 };
